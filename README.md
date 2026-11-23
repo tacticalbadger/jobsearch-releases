@@ -57,3 +57,11 @@ To remove it:
 ## Problems
 
 If something does not work, open an issue on this page, under **Issues**.
+
+## License
+
+JobSearch is proprietary software, not open source. Copyright (c) 2026 tacticalbadger.
+All rights reserved.
+
+You may download and run the app. Passing copies on, changing it or selling it needs
+written permission. The terms are in [LICENSE](LICENSE).
